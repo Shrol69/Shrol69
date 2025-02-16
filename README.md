@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZzbXdydW1qdTM4Z3Y2YnZvb2tvd202Z2FjZTF1dmpxeDNrYzd5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="310" alt="Coding GIF" align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlpcWoxOXo4aGJsOGNuZTN1NGw1bGl3b3lxNDhtbnR4dDNqa216dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="330" alt="Coding GIF" align="right">
 
 ### 👋 Hi, I'm Ayush !! 💻
 <b><i>Aspiring Software Engineer | MERN Stack & AI Enthusiast | Data Science Student  
