@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ayush!💻<br>Aspiring Software Engineer | MERN Stack & AI Enthusiast<br>🎨 Artist | Poet🏋️| Fitness Enthusiast | <br> What I Do:Building innovative web applications using MERN Stack Developing AI-powered projects, including chatbots & virtual assistants<br>Exploring Data Science & Machine Learning applications<br>Creating interactive and privacy-focused community platforms📌 Current 
+👋 Hi, I'm Ayush!💻<br>Aspiring Software Engineer | MERN Stack & AI Enthusiast<br>🎨 Artist | Poet🏋️| Fitness Enthusiast | <br><b> What I Do:</b> Building innovative web applications using MERN Stack Developing AI-powered projects, including chatbots & virtual assistants<br>Exploring Data Science & Machine Learning applications<br>Creating interactive and privacy-focused community platforms📌
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayush-gaykar-coder6122) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/theusefulguy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaykarayush588@gmail.com) 
